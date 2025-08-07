@@ -6,17 +6,6 @@
 
 A comprehensive health tracking application built with Flask that allows users to monitor their weight, nutrition, workouts, sleep patterns, and set health goals.
 
-## 📸 Screenshots
-
-![Dashboard Screenshot](screenshots/dashboard.png)
-*Main dashboard showing health metrics overview*
-
-![Nutrition Tracking](screenshots/nutrition.png)
-*Detailed nutrition logging interface*
-
-## 🚀 Live Demo
-
-[View Live Demo](#) | [Video Walkthrough](#)
 
 ## Features
 
